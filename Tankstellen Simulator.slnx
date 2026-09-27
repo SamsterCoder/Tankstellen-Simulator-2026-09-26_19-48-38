@@ -55,6 +55,7 @@
   <Project Path="Unity.RenderPipelines.Core.Runtime.Shared.csproj" />
   <Project Path="Unity.RenderPipelines.Core.Editor.Shared.csproj" />
   <Project Path="Unity.Collections.CodeGen.csproj" />
+  <Project Path="Assembly-CSharp.csproj" />
   <Project Path="Unity.2D.Tilemap.Extras.csproj" />
   <Project Path="Unity.2D.Animation.Runtime.csproj" />
   <Project Path="Unity.VisualScripting.SettingsProvider.Editor.csproj" />
@@ -88,7 +89,6 @@
   <Project Path="Unity.Collections.Tests.CoreCLR.PrivateJobNested.csproj" />
   <Project Path="Unity.Collections.Tests.CoreCLR.ProtectedJobNested.csproj" />
   <Project Path="Unity.Burst.csproj" />
-  <Project Path="Assembly-CSharp.csproj" />
   <Project Path="Unity.Rendering.LightTransport.Editor.csproj" />
   <Project Path="Unity.Collections.Editor.csproj" />
   <Project Path="Unity.Mathematics.csproj" />
@@ -116,6 +116,7 @@
   <Project Path="Unity.InternalAPIEngineBridge.001.Player.csproj" />
   <Project Path="Unity.VisualScripting.State.Player.csproj" />
   <Project Path="Unity.RenderPipelines.Core.Runtime.Shared.Player.csproj" />
+  <Project Path="Assembly-CSharp.Player.csproj" />
   <Project Path="Unity.2D.Tilemap.Extras.Player.csproj" />
   <Project Path="Unity.2D.Animation.Runtime.Player.csproj" />
   <Project Path="Unity.Tutorials.Player.csproj" />
@@ -137,7 +138,6 @@
   <Project Path="Unity.Collections.Tests.CoreCLR.PrivateJobNested.Player.csproj" />
   <Project Path="Unity.Collections.Tests.CoreCLR.ProtectedJobNested.Player.csproj" />
   <Project Path="Unity.Burst.Player.csproj" />
-  <Project Path="Assembly-CSharp.Player.csproj" />
   <Project Path="Unity.Mathematics.Player.csproj" />
   <Project Path="Unity.RenderPipelines.Universal.Config.Runtime.Player.csproj" />
   <Project Path="Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.Player.csproj" />
