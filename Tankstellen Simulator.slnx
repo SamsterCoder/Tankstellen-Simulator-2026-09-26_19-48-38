@@ -88,6 +88,7 @@
   <Project Path="Unity.Collections.Tests.CoreCLR.PrivateJobNested.csproj" />
   <Project Path="Unity.Collections.Tests.CoreCLR.ProtectedJobNested.csproj" />
   <Project Path="Unity.Burst.csproj" />
+  <Project Path="Assembly-CSharp.csproj" />
   <Project Path="Unity.Rendering.LightTransport.Editor.csproj" />
   <Project Path="Unity.Collections.Editor.csproj" />
   <Project Path="Unity.Mathematics.csproj" />
