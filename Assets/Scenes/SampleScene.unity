@@ -558,9 +558,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6d69d01a70c96a742876ed1dfd54d815, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Movement
-  rigidbody: {fileID: 0}
-  target: {fileID: 0}
-  speed: 1
+  speed: 5
 --- !u!50 &1822634001
 Rigidbody2D:
   serializedVersion: 5

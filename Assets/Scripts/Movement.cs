@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class Movement : MonoBehaviour
 {
-    [SerializeField] private float speed = 5f;
+    public float speed = 5;
 
     private PlayerControlls playerControls;
     private Vector2 movement;
